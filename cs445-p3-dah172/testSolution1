@@ -1,0 +1,11 @@
+839127546
+267345189
+415698372
+748532691
+651789423
+392410758
+976253814
+524861937
+183974265
+
+this should pass all of the reject tests (fail to reject) but should not pass the isFullSolution test.
